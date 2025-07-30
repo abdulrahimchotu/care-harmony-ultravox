@@ -27,7 +27,7 @@ python demo.py
 ### 5. Access Service 
 ```bash
 http://127.0.0.1:8000/get-url/{number}
-use country code before number} (e.g., for India, use 91)
+use country code before number (for US num, use 1)
 
 Example:
 http://127.0.0.1:8000/get-url/916301999626
