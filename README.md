@@ -8,7 +8,7 @@ git clone https://github.com/abdulrahimchotu/care-harmony-ultravox
 ```
 ### 2. Enter Project Directory
 ```bash
-cd CARE-HARMONY
+cd care-harmony-ultravox
 ```
 
 ### 3. Create Virtual Environment and Install Dependencies
