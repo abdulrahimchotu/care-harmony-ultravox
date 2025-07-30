@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.pytest_cache/
+nosetests.xml
+coverage.xml
+.benchmarks/
+
+# Distribution / Packaging
+.Python
+.env
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.bak
+*.orig
+*.pydevproject
+.project
+.settings
+.loadpath
+
+# OS generated files
+.DS_Store
+.Trashes
+._*
+
+# Thumbnails
+.thumbnails
+
+# Logs
+*.log
+log/
+
+# Misc
+.python-version
